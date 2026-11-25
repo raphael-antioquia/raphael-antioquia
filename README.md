@@ -69,4 +69,4 @@ A full-stack application featuring persistent timers, manual time entry, session
 
 Open to backend and full-stack software development opportunities in Toronto/GTA and across Canada.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-antioquia/)
